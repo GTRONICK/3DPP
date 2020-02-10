@@ -1,5 +1,5 @@
-# 3DPP
-GTRONICK'S 3D Printing profiles for Creality Ender 3 and similar printers, for PLA.
+# *3D Printing Profiles*
+GTRONICK'S 3D Printing profiles for Cura. Based on the Creality Ender 3 Cura profiles for PLA.
 
 ## [ENDER 3 ULTRA](https://github.com/GTRONICK/3DPP/releases/download/v1.0/ENDER3-ULTRA.curaprofile):
 Based on the default super quality profile for Creality Ender 3 from Cura, modified as follows:

@@ -21,4 +21,4 @@ Based on the default standard quality profile for Creality Ender 3 from Cura, mo
 *  Bed Temperature = 65°C
 *  Retraction distance = 8mm
 *  Retraction Speed = 40 mm/s
-*  Tree supports enabled
+*  Tree supports disabled

@@ -1,7 +1,7 @@
 # 3DPP
 GTRONICK'S 3D Printing profiles for Creality Ender 3 and similar printers, for PLA.
 
-# ENDER 3 ULTRA:
+## ENDER 3 ULTRA:
 Based on the default super quality profile for Creality Ender 3 from Cura, modified as follows:
 
 *  Print Speed = 40mm/s
@@ -12,7 +12,7 @@ Based on the default super quality profile for Creality Ender 3 from Cura, modif
 *  Retraction Speed = 40 mm/s
 *  Tree supports enabled
 
-# ENDER 3 STANDARD:
+## ENDER 3 STANDARD:
 Based on the default standard quality profile for Creality Ender 3 from Cura, modified as follows:
 
 *  Print Speed = 55mm/s
